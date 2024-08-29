@@ -1,0 +1,16 @@
+{
+  "name": "price_tracker",
+  "version": "1.0.0",
+  "main": "price_tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "puppeteer": "^23.2.0"
+  }
+}
